@@ -1,0 +1,38 @@
+
+
+
+1. Write a blog on the Difference between HTTP1.1 vs HTTP2.
+
+1. HTTP2 is much quicker and extra reliable than HTTP1.
+2. HTTP1 loads a single request for every TCP connection, while HTTP2 avoids networks put off by means of using multiplexing. 
+3. HTTP is a community delay touchy protocol in the sense that if there is much less network delay, then the web page is hundreds quicker.
+4. Instead of HTTP/1.1, which keeps all requests and responses in plain textual content format, HTTP/2 makes use of the binary framing layer to encapsulate all messages in binary format, even as nonetheless preserving HTTP semantics, along with verbs, strategies, and headers.
+5.  The essential function that differentiates HTTP/2 from HTTP/1.1 is the binary framing layer.
+6.  in contrast to HTTP/1.1, HTTP/2 makes use of a binary framing layer. this accretion encapsulates messages – transformed to their binary equal – whilst making sure that its HTTP semantics (method info, header statistics, and so forth.).
+7. HTTP/1.1 no longer offers a technique for a server to direct customers to discard those cached credentials which is a large safety hazard.
+
+
+
+
+2. Write a blog about objects and their internal representation in javascript.
+     JavaScript item is a non-primitive statistics type that permits you to save multiple collections of information. In the javascript, we have more object that is listed below.
+o Booleans can be objects 
+o Numbers can be objects 
+o Strings can be objects 
+o Objects are always objects
+o Dates are always objects
+o Maths are always objects
+o Regular expressions are always objects
+o Arrays are always objects
+o Functions are always objects
+* Properties are the values that are related to the javascript object. A  javascript object is a set of unordered properties. Properties can normally be modified, added, and deleted, however, a few are read-only.
+
+
+
+* That is the perfect manner to create a JavaScript item. The usage of an item is literal, you both define and create an item in a single statement. An item literal is a list of name: value pairs (like age:50) inner curly braces {}.
+* Internal properties define the conduct of code because it executes but isn’t handy through code. ECMAScript defines many internal properties for objects in JavaScript. Internal properties are indicated via double-rectangular-bracket notation. as an example, the JavaScript feature is an object and it has [[call]] belongings.
+
+ 
+
+
+   
